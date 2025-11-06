@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "himno"
+  site-url: "https://civvic.github.io/himno"
+  description: "Musical theory utils."
+  repo-branch: main
+  repo-url: "https://github.com/civvic/himno"

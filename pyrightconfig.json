@@ -1,0 +1,9 @@
+{
+    "ignore": [
+        // "**",
+        // "nbs/*"
+    ],
+    "reportWildcardImportFromLibrary": "none",
+    "exclude": [
+    ]
+}
